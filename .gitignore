@@ -48,3 +48,5 @@ samp.ban
 #
 
 *.sublime-workspace
+bans.json
+log.txt
